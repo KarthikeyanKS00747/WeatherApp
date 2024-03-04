@@ -2,7 +2,7 @@
 
 ## Introduction
 This Flutter project is a simple weather app that displays current weather information for a specific city. It utilizes the OpenWeather API to fetch real-time weather data.
-![Weather App]([https://example.com/path/to/your/image.png](https://github.com/KarthikeyanKS00747/WeatherApp/blob/main/Screenshot%202024-03-05%20000021.png))
+![Weather App](https://github.com/KarthikeyanKS00747/WeatherApp/blob/main/Screenshot%202024-03-05%20000021.png)
 
 ## Project Structure
 - **lib/const.dart:** Contains constants, including the OpenWeather API key.
